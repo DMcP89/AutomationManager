@@ -1,0 +1,4 @@
+#This is only a template renam to automation.ini for settings to take effect.
+[ScannerProperties]
+Network=0.0.0.0/24
+Target=00.00.00.00.00.00
