@@ -28,7 +28,7 @@ def scanNetwork( mac, network ):
 				return results
 
 
-#test = scanNetwork('***REMOVED***')
+#test = scanNetwork('TEST-MAC')
 #print test
 
 
