@@ -1,6 +1,6 @@
 DEBUG:root:Manager Start
 INFO:root:Scanning Network
-DEBUG:root:Scanning network for ***REMOVED***
+DEBUG:root:Scanning network for 84:10:0D:6A:C7:BF
 DEBUG:root:Network: 192.168.1.0/24
 DEBUG:root:Host List
 DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
@@ -10,11 +10,11 @@ DEBUG:root:192.168.1.14 : 3C:15:C2:C2:8C:70
 DEBUG:root:192.168.1.2 : 20:16:D8:3C:F3:FE
 DEBUG:root:192.168.1.20 : 50:1A:C5:20:98:FE
 DEBUG:root:192.168.1.6 : 44:80:EB:27:82:1E
-DEBUG:root:192.168.1.9 : ***REMOVED***
+DEBUG:root:192.168.1.9 : 84:10:0D:6A:C7:BF
 DEBUG:root:Target Found
 INFO:root:Connection Logged
 INFO:root:Scanning Network
-DEBUG:root:Scanning network for ***REMOVED***
+DEBUG:root:Scanning network for 84:10:0D:6A:C7:BF
 DEBUG:root:Network: 192.168.1.0/24
 DEBUG:root:Host List
 DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
@@ -22,11 +22,11 @@ DEBUG:root:192.168.1.100 : F8:0B:BE:5B:D6:82
 DEBUG:root:192.168.1.11 : A4:77:33:0B:82:68
 DEBUG:root:192.168.1.14 : 3C:15:C2:C2:8C:70
 DEBUG:root:192.168.1.6 : 44:80:EB:27:82:1E
-DEBUG:root:192.168.1.9 : ***REMOVED***
+DEBUG:root:192.168.1.9 : 84:10:0D:6A:C7:BF
 DEBUG:root:Target Found
 INFO:root:Connection Logged
 INFO:root:Scanning Network
-DEBUG:root:Scanning network for ***REMOVED***
+DEBUG:root:Scanning network for 84:10:0D:6A:C7:BF
 DEBUG:root:Network: 192.168.1.0/24
 DEBUG:root:Host List
 DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
@@ -36,11 +36,11 @@ DEBUG:root:192.168.1.14 : 3C:15:C2:C2:8C:70
 DEBUG:root:192.168.1.2 : 20:16:D8:3C:F3:FE
 DEBUG:root:192.168.1.20 : 50:1A:C5:20:98:FE
 DEBUG:root:192.168.1.6 : 44:80:EB:27:82:1E
-DEBUG:root:192.168.1.9 : ***REMOVED***
+DEBUG:root:192.168.1.9 : 84:10:0D:6A:C7:BF
 DEBUG:root:Target Found
 INFO:root:Connection Logged
 INFO:root:Scanning Network
-DEBUG:root:Scanning network for ***REMOVED***
+DEBUG:root:Scanning network for 84:10:0D:6A:C7:BF
 DEBUG:root:Network: 192.168.1.0/24
 DEBUG:root:Host List
 DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
@@ -49,26 +49,11 @@ DEBUG:root:192.168.1.11 : A4:77:33:0B:82:68
 DEBUG:root:192.168.1.14 : 3C:15:C2:C2:8C:70
 DEBUG:root:192.168.1.2 : 20:16:D8:3C:F3:FE
 DEBUG:root:192.168.1.8 : A4:D1:D2:6C:69:D2
-DEBUG:root:192.168.1.9 : ***REMOVED***
+DEBUG:root:192.168.1.9 : 84:10:0D:6A:C7:BF
 DEBUG:root:Target Found
 INFO:root:Connection Logged
 INFO:root:Scanning Network
-DEBUG:root:Scanning network for ***REMOVED***
-DEBUG:root:Network: 192.168.1.0/24
-DEBUG:root:Host List
-DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
-DEBUG:root:192.168.1.100 : F8:0B:BE:5B:D6:82
-DEBUG:root:192.168.1.11 : A4:77:33:0B:82:68
-DEBUG:root:192.168.1.14 : 3C:15:C2:C2:8C:70
-DEBUG:root:192.168.1.2 : 20:16:D8:3C:F3:FE
-DEBUG:root:192.168.1.20 : 50:1A:C5:20:98:FE
-DEBUG:root:192.168.1.6 : 44:80:EB:27:82:1E
-DEBUG:root:192.168.1.8 : A4:D1:D2:6C:69:D2
-DEBUG:root:192.168.1.9 : ***REMOVED***
-DEBUG:root:Target Found
-INFO:root:Connection Logged
-INFO:root:Scanning Network
-DEBUG:root:Scanning network for ***REMOVED***
+DEBUG:root:Scanning network for 84:10:0D:6A:C7:BF
 DEBUG:root:Network: 192.168.1.0/24
 DEBUG:root:Host List
 DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
@@ -79,6 +64,21 @@ DEBUG:root:192.168.1.2 : 20:16:D8:3C:F3:FE
 DEBUG:root:192.168.1.20 : 50:1A:C5:20:98:FE
 DEBUG:root:192.168.1.6 : 44:80:EB:27:82:1E
 DEBUG:root:192.168.1.8 : A4:D1:D2:6C:69:D2
-DEBUG:root:192.168.1.9 : ***REMOVED***
+DEBUG:root:192.168.1.9 : 84:10:0D:6A:C7:BF
+DEBUG:root:Target Found
+INFO:root:Connection Logged
+INFO:root:Scanning Network
+DEBUG:root:Scanning network for 84:10:0D:6A:C7:BF
+DEBUG:root:Network: 192.168.1.0/24
+DEBUG:root:Host List
+DEBUG:root:192.168.1.1 : 00:7F:28:10:F7:17
+DEBUG:root:192.168.1.100 : F8:0B:BE:5B:D6:82
+DEBUG:root:192.168.1.11 : A4:77:33:0B:82:68
+DEBUG:root:192.168.1.14 : 3C:15:C2:C2:8C:70
+DEBUG:root:192.168.1.2 : 20:16:D8:3C:F3:FE
+DEBUG:root:192.168.1.20 : 50:1A:C5:20:98:FE
+DEBUG:root:192.168.1.6 : 44:80:EB:27:82:1E
+DEBUG:root:192.168.1.8 : A4:D1:D2:6C:69:D2
+DEBUG:root:192.168.1.9 : 84:10:0D:6A:C7:BF
 DEBUG:root:Target Found
 INFO:root:Connection Logged
