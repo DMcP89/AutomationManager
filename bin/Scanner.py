@@ -28,7 +28,7 @@ def scanNetwork( mac, network ):
 				return results
 
 
-#test = scanNetwork('84:10:0D:6A:C7:BF')
+#test = scanNetwork('TEST-MAC')
 #print test
 
 
