@@ -12,8 +12,8 @@ config.read("../conf/automation.ini")
 def scanNetwork( mac, network ):
 	logging.debug('Scanning network for '+mac)
 	logging.debug('Network: '+network)
-	results = 0
-	nm = nmap.PortScanner()
+	results=0
+	nm=nmap.PortScanner()
 
 	nm.scan(hosts= network, arguments= '-sP')
 	host_list = nm.all_hosts()
@@ -22,14 +22,11 @@ def scanNetwork( mac, network ):
         	if  'mac' in nm[host]['addresses']:
                 	logging.debug(host+' : '+nm[host]['addresses']['mac'])
                 	if mac == nm[host]['addresses']['mac']:
-                        	logging.debug('Target Found')
-				
+                        	logging.debug('Target Found')				
 				results = 1
 				return results
 
 
-#test = scanNetwork('84:10:0D:6A:C7:BF')
-#print test
 
 
                                                                           
