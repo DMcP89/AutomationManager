@@ -2,7 +2,7 @@
 
 import sqlite3
 
-conn = sqlite3.connect('./db/am_db',isolation_level=None)
+conn = sqlite3.connect('am_db',isolation_level=None)
 
 def logConnection():
 	conn.execute("INSERT INTO connection_detection_log(type,timestamp) VALUES ('CONNECTED',CURRENT_TIMESTAMP)")
@@ -31,4 +31,4 @@ def closeDatabase():
 
 
 ##TESTING##
-checkTask( "test" )
+#checkTask( "test" )
